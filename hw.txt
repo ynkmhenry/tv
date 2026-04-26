@@ -69,7 +69,6 @@ CETV4,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226335/1.m3u8
 央视台球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226380/1.m3u8
 高尔夫网球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226382/1.m3u8
 卫生健康,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226417/1.m3u8
-魅力足球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226389/1.m3u8
 天元围棋,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226396/1.m3u8
 女性时尚,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226409/1.m3u8
 兵器科技,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226386/1.m3u8
@@ -96,7 +95,6 @@ CETV4,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226335/1.m3u8
 动漫秀场,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226347/1.m3u8
 金鹰卡通,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225669/1.m3u8
 卡酷少儿,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226410/1.m3u8
-中国交通,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226414/1.m3u8
 晴彩篮球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
 晴彩竞技,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8
 4K,#genre#
