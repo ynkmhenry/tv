@@ -97,6 +97,7 @@ CETV4,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226335/1.m3u8
 卡酷少儿,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226410/1.m3u8
 晴彩篮球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
 晴彩竞技,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8
+晴彩青少,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226457/1.m3u8
 4K,#genre#
 湖南卫视4K,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226443/1.m3u8
 浙江卫视4K,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226432/1.m3u8
@@ -160,7 +161,6 @@ CCTV16 4K,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226317/1.m3u8
 维西,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225749/1.m3u8
 德钦,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225753/1.m3u8
 临沧1套,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225799/1.m3u8
-临沧2套,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225769/1.m3u8
 临翔,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225787/1.m3u8
 永德,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225789/1.m3u8
 耿马,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225795/1.m3u8
